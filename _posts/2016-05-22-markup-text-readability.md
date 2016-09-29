@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Markup: Text Readability Test"
+image: images/unsplash-image-9.jpg
 excerpt: "A bunch of text to test readability."
 tags:
   - sample post
