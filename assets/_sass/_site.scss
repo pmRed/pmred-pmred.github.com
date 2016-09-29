@@ -502,6 +502,28 @@ canvas {
   }
 }
 
+#refs {
+  .block-right {
+    display: block;
+    .content {
+      height: auto;
+      display: block;
+      max-width: 800px;
+    }
+  }
+  .logo {
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    img {
+      width: 50px;
+      height: auto;
+    }
+    &:after {
+      display: none;
+    }
+  }
+}
 .section-title {
   font-size: 100px;
   position: absolute;
