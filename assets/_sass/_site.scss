@@ -130,6 +130,13 @@ canvas {
     top: 16px;
     background: $white;
   }
+  &:hover {
+    border-color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+    }
+  }
 }
 
 .posts-menu-icon {
@@ -182,7 +189,7 @@ canvas {
   right: 140px;
 }
 .posts-link {
-  right: 90px;
+  right: 85px;
 }
 
 .projects-link {
