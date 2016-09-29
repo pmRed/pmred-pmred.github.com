@@ -1,6 +1,6 @@
 ---
 layout: references
-title: References/
+title: References
 description: "Acknowledgements and Links"
 permalink: /references.html
 ---
