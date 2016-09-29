@@ -502,28 +502,6 @@ canvas {
   }
 }
 
-#refs {
-  .block-right {
-    display: block;
-    .content {
-      height: auto;
-      display: block;
-      max-width: 800px;
-    }
-  }
-  .logo {
-    top: 20px;
-    left: 20px;
-    position: absolute;
-    img {
-      width: 50px;
-      height: auto;
-    }
-    &:after {
-      display: none;
-    }
-  }
-}
 .section-title {
   font-size: 100px;
   position: absolute;
@@ -929,6 +907,28 @@ canvas {
         background-color: darken($white, 3%);
         color:darken($white, 15%) !important;
       }
+    }
+  }
+}
+#refs {
+  .block-right {
+    display: block;
+    .content {
+      height: auto;
+      display: block;
+      max-width: 800px;
+    }
+  }
+  .logo {
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    img {
+      width: 50px;
+      height: auto;
+    }
+    &:after {
+      display: none;
     }
   }
 }
