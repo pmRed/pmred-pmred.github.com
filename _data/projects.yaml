@@ -1,0 +1,12 @@
+- title: TTTx9
+  url: https://pmred.github.io/TTTx9/
+  image: images/projects/TTTx9.png
+  completed: true
+- title: NucScheme
+  url: https://github.com/pmRed/NucScheme
+  image: images/projects/labtocat.png
+  completed: true
+- title: ElecSpinSS
+  url: https://github.com/pmRed/ElecSpinSS
+  image: images/projects/NV.png
+  completed: false
