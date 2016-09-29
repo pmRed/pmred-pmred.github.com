@@ -105,12 +105,12 @@ canvas {
 .ref-menu-icon {
   position: absolute;
   top: 30px;
-  right: 150px;
+  right: 150px;r
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
   background: $white;
-  &:before {
+/*  &:before {
     content: '';
     width: 20px;
     height: 25px;
@@ -129,7 +129,7 @@ canvas {
     right: 6px;
     top: 6px;
     background: $white;
-  }
+  }*/
 }
 
 .posts-menu-icon {
