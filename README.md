@@ -1,3 +1,3 @@
 # pmred.github.com
 
-Template wesbite, using a template by 
+Temp wesbite, using a template by Taylan Tatlı
